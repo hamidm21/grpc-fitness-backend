@@ -1,0 +1,406 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "mefit.api";
+option go_package ="enumpb";
+option java_outer_classname = "MefitApi";
+option objc_class_prefix = "MFA";
+
+//Req suffix stands for request
+//Res suffix stands for response
+service Mefit {
+    // Authentication
+    rpc AnonySignUp (AnonyReq) returns (AnonyRes) { }
+    rpc SignUp (SignUpReq) returns (Empty) { }
+    rpc SignIn (AuthReq) returns (SignInRes) { }
+    rpc ResetPassword (EmailReq) returns (Empty) { }
+    rpc Logout (Empty) returns (Empty) { }
+
+    // Profile
+    rpc ProfileUpdate (Profile) returns (Profile) {}
+    rpc ProfileInfo (Empty) returns (Profile) {}
+
+    // Program
+    rpc GetPlans (Empty) returns (PlansRes){};
+
+    // Plan
+    rpc GetPlan (FindByIdReq) returns (PlanRes){};
+    rpc GetCurrentPlan (Empty) returns (CurrentPlanRes){};
+    rpc JoinPlan (JoinPlanReq) returns (JoinPlanRes){};
+
+    // Workout
+    rpc GetWorkout (FindByIdReq) returns (Workout){};
+    rpc GetPromotedWorkouts (Empty) returns (WorkoutList){};
+    rpc FinishWorkout (FeedbackReq) returns (Empty){};
+
+    // Class
+    rpc GetClasses (Empty) returns (ListClassRes){};
+    rpc GetClassMovements (FindByIdAndPage) returns (ListMovementsRes){};
+    rpc ClassMovementInfo (FindByIdReq) returns (Movement) {};
+
+    // Article
+    rpc GetArticles (ListReq) returns (ListArticleRes) {};
+    rpc ArticleInfo (FindByMongoIdReq) returns (Article) {};
+
+    //Payment
+    rpc GetProducts (Empty) returns (ProductRes);
+    rpc PaymentRequest (PayReq) returns (PayRes);
+    rpc PaymentCheck (FindByIdReq) returns (PaymentRes);
+    rpc BazaarPaymentCheck (BazaarReq) returns (BazaarRes);
+}
+
+//Copied from google/protobuf/timestamp.proto
+message Timestamp {
+    // Represents seconds of UTC time since Unix epoch
+    // 1970-01-01T00:00:00Z. Must be from 0001-01-01T00:00:00Z to
+    // 9999-12-31T23:59:59Z inclusive.
+    int64 seconds = 1;
+
+    // Non-negative fractions of a second at nanosecond resolution. Negative
+    // second values with fractions must still have non-negative nanos values
+    // that count forward in time. Must be from 0 to 999,999,999
+    // inclusive.
+    int32 nanos = 2;
+}
+
+
+// Authentication ////////////////////////////////////////////////////////////////////
+
+message AnonyReq {
+    string anonyId = 1;
+}
+
+message AnonyRes {
+    string anonyId = 1;
+    string token = 2;
+}
+
+message AuthReq {
+    string email = 1;
+    string password = 2;
+}
+
+message SignUpReq {
+    string email = 1;
+    string password = 2;
+    string anonyId = 3;
+}
+
+message EmailReq {
+    string email = 1;
+}
+
+message SignInRes {
+    string token = 1;
+}
+
+message LogoutReq {
+    string token = 1;
+}
+// Profile ////////////////////////////////////////////////////////////////////
+
+//This is the model that i created, Add ur changes!
+message Profile {
+    string name = 1;
+    //Gender ranges from 1 to 3
+    //1: Male
+    //2: Female
+    //3: Others
+    uint32 gender = 2;
+    uint32 age = 3;
+    uint32 height = 4;
+    uint32 waist = 5;
+    uint32 neck =  6;
+    uint32 hip = 7;
+    uint32 arm =  8;
+    uint32 leg =  9;
+    float currentWeight = 10;
+    float targetWeight = 11;
+    //Activity level ranges from 1 to 5
+    //1: Rarely
+    //2: Light: 1-3 times a week
+    //3: Moderate: 3-5 times a week
+    //4: Heavy: 6-7 times a week
+    //5: Elite: Several times per day
+    uint32 activityLevel = 12;
+    //Days of week that user working out
+    repeated uint32 daysOfWeek  = 13;
+    //Goal ranges from 1 to 3
+    //1: Lose fat
+    //2: Get fitter/Maintain
+    //3: Gain muscle
+    uint32 goal = 14;
+}
+
+
+// Movements ////////////////////////////////////////////////////////////////////
+
+message Movement{
+    string Name = 1;
+    string ThumbnailUrl = 2;
+    // Names of muscles that involved in the movement
+    repeated MuscleGroup MuscleGroups = 3;
+    // Description for movement
+    string Description = 4;
+    // Instruction on how to do the movement
+    string Instruction = 5;
+    string VideoUrl = 6;
+    string Tips = 7;
+    repeated Article Articles = 8;
+    repeated Keyword Keywords = 9;
+    uint32 Id = 10;
+    string nameFa = 11;
+}
+
+//Class 
+message MuscleGroup {
+    string Name = 1;
+}
+
+message Class{
+    string Name = 1; 
+    string CoverUrl = 2;
+    string Description = 3;
+    repeated Keyword Keywords = 4;
+    repeated MuscleGroup MuscleGroups = 5;
+    uint32 Id = 6;
+}
+
+
+
+message ListClassRes{
+    repeated Class Classes = 1;
+    uint32 Page = 2;
+}
+
+//Listing movements for some class
+message FindByIdReq {
+    uint32 Id = 1;
+}
+
+message FindByMongoIdReq {
+    string Id = 1;
+}
+
+//Listing movements for some class
+message FeedbackReq {
+    uint32 Id = 1;
+    uint32 rate = 2;
+    //Difficulty ranges from 1 to 3
+    uint32 difficulty = 3;
+}
+
+enum State {
+    DONE = 0;
+    NEED_PURCHASE = 1;
+}
+
+// listing the movements in responde to a class 
+message ListMovementsRes{
+    repeated Movement Movements = 1;
+    uint32 Page = 2;
+    int32 TotalCount = 3;
+}
+
+//Movements in workout list 
+// message WorkoutPeriod {
+//     oneof type{
+//         ExerciseSection Exercises = 1;
+//         uint32 Rest = 2;
+//     }
+// }
+
+message ExerciseSection {
+    repeated ExercisePeriod Exercises = 1;
+    uint32 Round = 2; 
+}
+
+message ExercisePeriod{
+    string Name = 1;
+    string ThumbnailUrl = 2;
+    uint32 MovementId = 3;
+    Movement Movement = 4;
+    // type time(1) or repitation (2);
+    uint32 ExerciseType = 5;
+    // value is second for time, or count for rep. e.g. 10x pushups, 120 sec of running
+    uint32 Value = 6;
+    int32 Rest = 7;
+}
+// respose to the workout 
+message CurrentPlanRes {
+    Workout workout = 1;
+    PlanRes plan = 2;
+    uint32 totalWorkouts = 3;
+    uint32 completedWorkouts = 4;
+}
+
+// respose to the workout 
+message Workout {
+    uint32 Id = 1;
+    string Name = 2;
+    string Description = 3;
+    string Instruction = 4;
+    //Workout period e.g. exercise, rest period
+    uint32 Calorie = 5;
+    uint32 Duration = 6;
+    repeated ExerciseSection exerciseSections = 7;
+    bool viplock = 8;
+    string ThumbnailUrl = 9;
+    string CoverUrl = 10;
+}
+
+message WorkoutList{
+    string title = 1;
+    repeated Workout workouts = 2;
+    int32 count = 3;
+    int32 page = 4;
+}
+//
+message JoinPlanReq {
+    uint32 Id = 1;
+}
+
+//
+message JoinPlanRes {
+
+      State state = 1;
+}
+
+
+// response to a plan selection
+message PlanRes {
+    string ThumbnailUrl = 1;
+    string Name = 2;
+    string Description = 3;
+    uint32 Id = 4;
+    // how many wourkouts is in plan
+    uint32 WorkoutCounts = 5;
+    // how many weeks it takes
+    uint32 Weeks = 6;
+    // what level it is 
+    uint32 Level = 7;
+    // requirements e.g. some gym tools
+    // repeated string requirements = 8;
+    bool VipLock = 8;
+    bool HasTrial = 9;
+    uint32 TotalCalorie = 10;
+    string CoverUrl = 11;
+}
+
+message PayReq {
+    int32 ProductID = 1;
+    bool  IsBazaar = 2;
+}
+
+message ZarinPayload {
+    int32 TransactionId = 1;
+    string Uri = 2;
+}
+
+message BazaarPayload {
+    string RSA = 1;
+    string SKU = 2;
+    string DevPayload = 3;
+}
+
+message PayRes {
+    oneof type {
+        ZarinPayload Zarin = 1;
+        BazaarPayload Bazaar = 2;
+        bool Paid =3;
+    }
+}
+
+message Product {
+    int32 ID = 1;
+    string Name = 2;
+    int32 Price = 3;
+    string Description = 4;
+    int32 Off = 5;
+	// to be used if the product was a special product
+	string Label = 6;
+    bool recommended = 7;
+    string CoverUrl = 8;
+}
+
+message ProductRes {
+    repeated Product Products = 1;
+}
+
+message BazaarReq {
+    string PackageName = 1;
+    string ProductID = 2;
+    string PurchaseID = 3;
+}
+
+message BazaarRes {
+    bool Paid = 1;
+}
+
+message PaymentRes {
+    int32 UserID = 1;
+    int32 Authority = 2;
+    string PaymentURL = 3;
+	int32 RefID = 4;
+	//id of the purchased product
+	int32 ProductID = 5;
+	int32 Paid = 6;
+	int32 Price = 7;
+}
+
+message PlansRes {
+    repeated PlanRes plans = 1;
+}
+
+// Article messages 
+message Keyword {
+    string Key = 1;
+}
+
+message Article {
+    string ThumbnailUrl = 1;
+    string CoverUrl = 2;
+    string Title = 3;
+    string Body = 4;
+    // repeated Keyword Keywords = 5;
+    string Id = 5;
+    string ShareUrl = 6;
+    uint64 CreatedAt= 7;
+    string Author = 8;
+    string Sum = 9;
+}
+
+message ListArticleRes {
+    repeated Article Articles = 1;
+    int32 TotalCount = 2;
+}
+
+// Genral messages  //////////////////////////////////////////////////////////////////
+//TODO: We need this later for uploads
+message Chunk {
+    bytes Chunk = 1;
+}
+//TODO:  We need this later too
+message Empty {
+}
+
+// ID for select
+message ClassInfoReq {
+    // string name = 1;
+    uint32 Id = 1;
+}
+
+//Listing messages
+message ListReq {
+    uint32 Page = 1; // [default = 0]
+}
+message ListStatusRes {
+    repeated string Names = 1;
+    uint32 Page = 2;
+}
+
+
+message FindByIdAndPage {
+    uint32 Id = 1;
+    uint32 Page = 2;
+}
