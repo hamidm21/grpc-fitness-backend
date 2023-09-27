@@ -1,0 +1,2349 @@
+- model:
+    id: 0
+    createdat: 2019-05-14T18:33:10.229946+04:30
+    updatedat: 2019-05-14T18:33:10.229947+04:30
+    deletedat: null
+  name: 3-angle calf raises
+  thumbnailurl: /media/3-angle-calf-raises.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/3-angle-calf-raises.mp4
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 2
+    createdat: 2019-05-14T18:33:10.237823+04:30
+    updatedat: 2019-05-14T18:33:10.237824+04:30
+    deletedat: null
+  name: army crawl
+  thumbnailurl: /media/army-crawl.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/army-crawl.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 6
+    createdat: 2019-05-14T18:33:10.250234+04:30
+    updatedat: 2019-05-14T18:33:10.250235+04:30
+    deletedat: null
+  name: boat
+  thumbnailurl: /media/boat.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/boat.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 8
+    createdat: 2019-05-14T18:33:10.25864+04:30
+    updatedat: 2019-05-14T18:33:10.258641+04:30
+    deletedat: null
+  name: burpee
+  thumbnailurl: /media/burpee.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/burpee.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 13
+    createdat: 2019-05-14T18:33:10.346176+04:30
+    updatedat: 2019-05-14T18:33:10.346177+04:30
+    deletedat: null
+  name: dip seated knee bent
+  thumbnailurl: /media/dip-seated-knee-bent.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/dip-seated-knee-bent.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 56
+    createdat: 2019-05-14T18:33:10.843385+04:30
+    updatedat: 2019-05-14T18:33:10.843385+04:30
+    deletedat: null
+  name: russian twists
+  thumbnailurl: /media/russian-twists.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/russian-twists.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 58
+    createdat: 2019-05-14T18:33:10.848551+04:30
+    updatedat: 2019-05-14T18:33:10.848552+04:30
+    deletedat: null
+  name: shoulder pulses down
+  thumbnailurl: /media/shoulder-pulses-down.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/shoulder-pulses-down.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 65
+    createdat: 2019-05-14T18:33:11.018866+04:30
+    updatedat: 2019-05-14T18:33:11.018867+04:30
+    deletedat: null
+  name: skull crushers light weights
+  thumbnailurl: /media/skull-crushers-light-weights.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/skull-crushers-light-weights.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 81
+    createdat: 2019-05-14T18:33:11.323381+04:30
+    updatedat: 2019-05-14T18:33:11.323382+04:30
+    deletedat: null
+  name: towel curls
+  thumbnailurl: /media/towel-curls.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/towel-curls.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 10
+    createdat: 2019-05-14T18:33:10.263766+04:30
+    updatedat: 2019-05-14T18:33:10.263767+04:30
+    deletedat: null
+  name: calf raises single leg
+  thumbnailurl: /media/calf-raises-single-leg.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/calf-raises-single-leg.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 26
+    createdat: 2019-05-14T18:33:10.488616+04:30
+    updatedat: 2019-05-14T18:33:10.488617+04:30
+    deletedat: null
+  name: jumping jacks
+  thumbnailurl: /media/jumping-jacks.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/jumping-jacks.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 39
+    createdat: 2019-05-14T18:33:10.544077+04:30
+    updatedat: 2019-05-14T18:33:10.544078+04:30
+    deletedat: null
+  name: military press hands on floor
+  thumbnailurl: /media/military-press-hands-on-floor.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/military-press-hands-on-floor.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 47
+    createdat: 2019-05-14T18:33:10.699643+04:30
+    updatedat: 2019-05-14T18:33:10.699643+04:30
+    deletedat: null
+  name: plank to push up knee on floor
+  thumbnailurl: /media/plank-to-push-up-knee-on-floor.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/plank-to-push-up-knee-on-floor.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 59
+    createdat: 2019-05-14T18:33:10.851758+04:30
+    updatedat: 2019-05-14T18:33:10.851759+04:30
+    deletedat: null
+  name: shoulder pulses up
+  thumbnailurl: /media/shoulder-pulses-up.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/shoulder-pulses-up.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 64
+    createdat: 2019-05-14T18:33:11.015567+04:30
+    updatedat: 2019-05-14T18:33:11.015568+04:30
+    deletedat: null
+  name: skaters slow
+  thumbnailurl: /media/skaters-slow.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/skaters-slow.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 68
+    createdat: 2019-05-14T18:33:11.031737+04:30
+    updatedat: 2019-05-14T18:33:11.031738+04:30
+    deletedat: null
+  name: squats deep weighted
+  thumbnailurl: /media/squats-deep-weighted.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/squats-deep-weighted.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 15
+    createdat: 2019-05-14T18:33:10.356311+04:30
+    updatedat: 2019-05-14T18:33:10.356311+04:30
+    deletedat: null
+  name: fast feet wide low
+  thumbnailurl: /media/fast-feet-wide-low.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/fast-feet-wide-low.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 49
+    createdat: 2019-05-14T18:33:10.705833+04:30
+    updatedat: 2019-05-14T18:33:10.705834+04:30
+    deletedat: null
+  name: prisoner get ups
+  thumbnailurl: /media/prisoner-get-ups.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/prisoner-get-ups.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 55
+    createdat: 2019-05-14T18:33:10.838709+04:30
+    updatedat: 2019-05-14T18:33:10.83871+04:30
+    deletedat: null
+  name: romanian deadlift single leg
+  thumbnailurl: /media/romanian-deadlift-single-leg.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/romanian-deadlift-single-leg.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 61
+    createdat: 2019-05-14T18:33:10.861426+04:30
+    updatedat: 2019-05-14T18:33:10.861426+04:30
+    deletedat: null
+  name: shove offs hands hip height
+  thumbnailurl: /media/shove-offs-hands-hip-height.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/shove-offs-hands-hip-height.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 74
+    createdat: 2019-05-14T18:33:11.064575+04:30
+    updatedat: 2019-05-14T18:33:11.064575+04:30
+    deletedat: null
+  name: squats to chair
+  thumbnailurl: /media/squats-to-chair.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/squats-to-chair.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 79
+    createdat: 2019-05-14T18:33:11.317432+04:30
+    updatedat: 2019-05-14T18:33:11.317433+04:30
+    deletedat: null
+  name: swimmers fast
+  thumbnailurl: /media/swimmers-fast.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/swimmers-fast.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 29
+    createdat: 2019-05-14T18:33:10.499491+04:30
+    updatedat: 2019-05-14T18:33:10.499492+04:30
+    deletedat: null
+  name: leg raises hands under butt
+  thumbnailurl: /media/leg-raises-hands-under-butt.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/leg-raises-hands-under-butt.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 40
+    createdat: 2019-05-14T18:33:10.546687+04:30
+    updatedat: 2019-05-14T18:33:10.546688+04:30
+    deletedat: null
+  name: montain climbers knees to chest
+  thumbnailurl: /media/montain-climbers-knees-to-chest.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/montain-climbers-knees-to-chest.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 57
+    createdat: 2019-05-14T18:33:10.84567+04:30
+    updatedat: 2019-05-14T18:33:10.845671+04:30
+    deletedat: null
+  name: seated knee tuck
+  thumbnailurl: /media/seated-knee-tuck.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/seated-knee-tuck.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 73
+    createdat: 2019-05-14T18:33:11.060967+04:30
+    updatedat: 2019-05-14T18:33:11.060968+04:30
+    deletedat: null
+  name: squats single leg assisted
+  thumbnailurl: /media/squats-single-leg-assisted.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/squats-single-leg-assisted.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 86
+    createdat: 2019-05-14T18:33:11.338711+04:30
+    updatedat: 2019-05-14T18:33:11.338713+04:30
+    deletedat: null
+  name: bent over row light weights
+  thumbnailurl: /media/bent-over-row-light-weights.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/bent-over-row-light-weights.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 28
+    createdat: 2019-05-14T18:33:10.496413+04:30
+    updatedat: 2019-05-14T18:33:10.496414+04:30
+    deletedat: null
+  name: jumps vertical
+  thumbnailurl: /media/jumps-vertical.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/jumps-vertical.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 31
+    createdat: 2019-05-14T18:33:10.507608+04:30
+    updatedat: 2019-05-14T18:33:10.507609+04:30
+    deletedat: null
+  name: lower back curl
+  thumbnailurl: /media/lower-back-curl.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/lower-back-curl.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 35
+    createdat: 2019-05-14T18:33:10.527921+04:30
+    updatedat: 2019-05-14T18:33:10.527922+04:30
+    deletedat: null
+  name: lunges walking weighted
+  thumbnailurl: /media/lunges-walking-weighted.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/lunges-walking-weighted.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 52
+    createdat: 2019-05-14T18:33:10.715058+04:30
+    updatedat: 2019-05-14T18:33:10.715059+04:30
+    deletedat: null
+  name: push ups wide grip hands hip height
+  thumbnailurl: /media/push-ups-wide-grip-hands-hip-height.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/push-ups-wide-grip-hands-hip-height.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 71
+    createdat: 2019-05-14T18:33:11.048101+04:30
+    updatedat: 2019-05-14T18:33:11.048102+04:30
+    deletedat: null
+  name: squats fast
+  thumbnailurl: /media/squats-fast.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/squats-fast.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 44
+    createdat: 2019-05-14T18:33:10.691207+04:30
+    updatedat: 2019-05-14T18:33:10.691208+04:30
+    deletedat: null
+  name: plank on a table
+  thumbnailurl: /media/plank-on-a-table.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/plank-on-a-table.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 45
+    createdat: 2019-05-14T18:33:10.693556+04:30
+    updatedat: 2019-05-14T18:33:10.693556+04:30
+    deletedat: null
+  name: plank on forearms
+  thumbnailurl: /media/plank-on-forearms.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/plank-on-forearms.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 72
+    createdat: 2019-05-14T18:33:11.055401+04:30
+    updatedat: 2019-05-14T18:33:11.055402+04:30
+    deletedat: null
+  name: squats plie
+  thumbnailurl: /media/squats-plie.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/squats-plie.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 16
+    createdat: 2019-05-14T18:33:10.359076+04:30
+    updatedat: 2019-05-14T18:33:10.359077+04:30
+    deletedat: null
+  name: flutter kicks hands under butt
+  thumbnailurl: /media/flutter-kicks-hands-under-butt.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/flutter-kicks-hands-under-butt.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 23
+    createdat: 2019-05-14T18:33:10.390826+04:30
+    updatedat: 2019-05-14T18:33:10.390827+04:30
+    deletedat: null
+  name: inch worms
+  thumbnailurl: /media/inch-worms.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/inch-worms.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 30
+    createdat: 2019-05-14T18:33:10.502717+04:30
+    updatedat: 2019-05-14T18:33:10.502718+04:30
+    deletedat: null
+  name: leg raises knee raises
+  thumbnailurl: /media/leg-raises-knee-raises.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/leg-raises-knee-raises.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 37
+    createdat: 2019-05-14T18:33:10.536433+04:30
+    updatedat: 2019-05-14T18:33:10.536434+04:30
+    deletedat: null
+  name: march in place
+  thumbnailurl: /media/march-in-place.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/march-in-place.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 38
+    createdat: 2019-05-14T18:33:10.540448+04:30
+    updatedat: 2019-05-14T18:33:10.540448+04:30
+    deletedat: null
+  name: military press hands knee height
+  thumbnailurl: /media/military-press-hands-knee-height.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/military-press-hands-knee-height.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 19
+    createdat: 2019-05-14T18:33:10.369021+04:30
+    updatedat: 2019-05-14T18:33:10.369021+04:30
+    deletedat: null
+  name: glute bridge
+  thumbnailurl: /media/glute-bridge.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/glute-bridge.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 27
+    createdat: 2019-05-14T18:33:10.492304+04:30
+    updatedat: 2019-05-14T18:33:10.492306+04:30
+    deletedat: null
+  name: jumping side
+  thumbnailurl: /media/jumping-side.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/jumping-side.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 41
+    createdat: 2019-05-14T18:33:10.685664+04:30
+    updatedat: 2019-05-14T18:33:10.685668+04:30
+    deletedat: null
+  name: mountain climbers knees to opposite elbow
+  thumbnailurl: /media/mountain-climbers-knees-to-opposite-elbow.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/mountain-climbers-knees-to-opposite-elbow.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 69
+    createdat: 2019-05-14T18:33:11.036398+04:30
+    updatedat: 2019-05-14T18:33:11.036399+04:30
+    deletedat: null
+  name: squats deep
+  thumbnailurl: /media/squats-deep.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/squats-deep.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 1
+    createdat: 2019-05-14T18:33:10.233554+04:30
+    updatedat: 2019-05-14T18:33:10.233555+04:30
+    deletedat: null
+  name: 4 count
+  thumbnailurl: /media/4-count.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/4-count.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 5
+    createdat: 2019-05-14T18:33:10.24933+04:30
+    updatedat: 2019-05-14T18:33:10.249331+04:30
+    deletedat: null
+  name: bicycles
+  thumbnailurl: /media/bicycles.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/bicycles.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 34
+    createdat: 2019-05-14T18:33:10.523414+04:30
+    updatedat: 2019-05-14T18:33:10.523415+04:30
+    deletedat: null
+  name: lunges side
+  thumbnailurl: /media/lunges-side.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/lunges-side.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 54
+    createdat: 2019-05-14T18:33:10.834282+04:30
+    updatedat: 2019-05-14T18:33:10.834283+04:30
+    deletedat: null
+  name: push-ups wide grip hand hip height
+  thumbnailurl: /media/push-ups-wide-grip-hand-hip-height.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/push-ups-wide-grip-hand-hip-height.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 66
+    createdat: 2019-05-14T18:33:11.023141+04:30
+    updatedat: 2019-05-14T18:33:11.023142+04:30
+    deletedat: null
+  name: squat to chair single leg
+  thumbnailurl: /media/squat-to-chair-single-leg.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/squat-to-chair-single-leg.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 67
+    createdat: 2019-05-14T18:33:11.027521+04:30
+    updatedat: 2019-05-14T18:33:11.027522+04:30
+    deletedat: null
+  name: squats bob weave
+  thumbnailurl: /media/squats-bob-weave.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/squats-bob-weave.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 84
+    createdat: 2019-05-14T18:33:11.332519+04:30
+    updatedat: 2019-05-14T18:33:11.33252+04:30
+    deletedat: null
+  name: arm rotation forward
+  thumbnailurl: /media/arm-rotation-forward.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/arm-rotation-forward.mp4
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 20
+    createdat: 2019-05-14T18:33:10.374336+04:30
+    updatedat: 2019-05-14T18:33:10.374336+04:30
+    deletedat: null
+  name: good mornings
+  thumbnailurl: /media/good-mornings.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/good-mornings.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 36
+    createdat: 2019-05-14T18:33:10.533165+04:30
+    updatedat: 2019-05-14T18:33:10.533166+04:30
+    deletedat: null
+  name: lunges walking
+  thumbnailurl: /media/lunges-walking.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/lunges-walking.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 62
+    createdat: 2019-05-14T18:33:10.865015+04:30
+    updatedat: 2019-05-14T18:33:10.865016+04:30
+    deletedat: null
+  name: side kick
+  thumbnailurl: /media/side-kick.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/side-kick.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 70
+    createdat: 2019-05-14T18:33:11.045873+04:30
+    updatedat: 2019-05-14T18:33:11.045873+04:30
+    deletedat: null
+  name: squats dynamic
+  thumbnailurl: /media/squats-dynamic.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/squats-dynamic.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 80
+    createdat: 2019-05-14T18:33:11.320524+04:30
+    updatedat: 2019-05-14T18:33:11.320525+04:30
+    deletedat: null
+  name: swimmers slow
+  thumbnailurl: /media/swimmers-slow.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/swimmers-slow.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 7
+    createdat: 2019-05-14T18:33:10.253795+04:30
+    updatedat: 2019-05-14T18:33:10.253796+04:30
+    deletedat: null
+  name: bulgarian split squats
+  thumbnailurl: /media/bulgarian-split-squats.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/bulgarian-split-squats.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 18
+    createdat: 2019-05-14T18:33:10.365449+04:30
+    updatedat: 2019-05-14T18:33:10.36545+04:30
+    deletedat: null
+  name: glute bridge elevated
+  thumbnailurl: /media/glute-bridge-elevated.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/glute-bridge-elevated.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 25
+    createdat: 2019-05-14T18:33:10.399161+04:30
+    updatedat: 2019-05-14T18:33:10.399161+04:30
+    deletedat: null
+  name: jump knee tucks
+  thumbnailurl: /media/jump-knee-tucks.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/jump-knee-tucks.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 33
+    createdat: 2019-05-14T18:33:10.517113+04:30
+    updatedat: 2019-05-14T18:33:10.517114+04:30
+    deletedat: null
+  name: lunges hands behind head
+  thumbnailurl: /media/lunges-hands-behind-head.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/lunges-hands-behind-head.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 60
+    createdat: 2019-05-14T18:33:10.857856+04:30
+    updatedat: 2019-05-14T18:33:10.857857+04:30
+    deletedat: null
+  name: shove offs hands chest height
+  thumbnailurl: /media/shove-offs-hands-chest-height.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/shove-offs-hands-chest-height.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 11
+    createdat: 2019-05-14T18:33:10.267627+04:30
+    updatedat: 2019-05-14T18:33:10.267628+04:30
+    deletedat: null
+  name: crab walk
+  thumbnailurl: /media/crab-walk.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/crab-walk.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 42
+    createdat: 2019-05-14T18:33:10.687604+04:30
+    updatedat: 2019-05-14T18:33:10.687605+04:30
+    deletedat: null
+  name: mountain climbers kneeto chest
+  thumbnailurl: /media/mountain-climbers-kneeto-chest.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/mountain-climbers-kneeto-chest.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 75
+    createdat: 2019-05-14T18:33:11.07034+04:30
+    updatedat: 2019-05-14T18:33:11.070341+04:30
+    deletedat: null
+  name: squts 90
+  thumbnailurl: /media/squts-90.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/squts-90.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 82
+    createdat: 2019-05-14T18:33:11.326016+04:30
+    updatedat: 2019-05-14T18:33:11.326016+04:30
+    deletedat: null
+  name: wall sits
+  thumbnailurl: /media/wall-sits.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/wall-sits.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 12
+    createdat: 2019-05-14T18:33:10.269316+04:30
+    updatedat: 2019-05-14T18:33:10.269317+04:30
+    deletedat: null
+  name: crunches
+  thumbnailurl: /media/crunches.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/crunches.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 14
+    createdat: 2019-05-14T18:33:10.34904+04:30
+    updatedat: 2019-05-14T18:33:10.349041+04:30
+    deletedat: null
+  name: donkey kick
+  thumbnailurl: /media/donkey-kick.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/donkey-kick.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 17
+    createdat: 2019-05-14T18:33:10.362655+04:30
+    updatedat: 2019-05-14T18:33:10.362656+04:30
+    deletedat: null
+  name: forward lunges
+  thumbnailurl: /media/forward-lunges.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/forward-lunges.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 21
+    createdat: 2019-05-14T18:33:10.379807+04:30
+    updatedat: 2019-05-14T18:33:10.379808+04:30
+    deletedat: null
+  name: high knees
+  thumbnailurl: /media/high-knees.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/high-knees.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 32
+    createdat: 2019-05-14T18:33:10.511019+04:30
+    updatedat: 2019-05-14T18:33:10.51102+04:30
+    deletedat: null
+  name: lunges curtsey
+  thumbnailurl: /media/lunges-curtsey.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/lunges-curtsey.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 63
+    createdat: 2019-05-14T18:33:11.0118+04:30
+    updatedat: 2019-05-14T18:33:11.011801+04:30
+    deletedat: null
+  name: side plank reach knees on floor
+  thumbnailurl: /media/side-plank-reach-knees-on-floor.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/side-plank-reach-knees-on-floor.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 78
+    createdat: 2019-05-14T18:33:11.314401+04:30
+    updatedat: 2019-05-14T18:33:11.314402+04:30
+    deletedat: null
+  name: superman halo plate
+  thumbnailurl: /media/superman-halo-plate.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/superman-halo-plate.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 85
+    createdat: 2019-05-14T18:33:11.335718+04:30
+    updatedat: 2019-05-14T18:33:11.335719+04:30
+    deletedat: null
+  name: beach scissors lying on side
+  thumbnailurl: /media/beach-scissors-lying-on-side.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/beach-scissors-lying-on-side.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 4
+    createdat: 2019-05-14T18:33:10.245722+04:30
+    updatedat: 2019-05-14T18:33:10.245723+04:30
+    deletedat: null
+  name: bear walk
+  thumbnailurl: /media/bear-walk.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/bear-walk.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 9
+    createdat: 2019-05-14T18:33:10.262426+04:30
+    updatedat: 2019-05-14T18:33:10.262427+04:30
+    deletedat: null
+  name: butterfly sit ups
+  thumbnailurl: /media/butterfly-sit-ups.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/butterfly-sit-ups.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 43
+    createdat: 2019-05-14T18:33:10.689783+04:30
+    updatedat: 2019-05-14T18:33:10.689783+04:30
+    deletedat: null
+  name: plank inverted
+  thumbnailurl: /media/plank-inverted.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/plank-inverted.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 46
+    createdat: 2019-05-14T18:33:10.696127+04:30
+    updatedat: 2019-05-14T18:33:10.696127+04:30
+    deletedat: null
+  name: plank spiderman on forearms
+  thumbnailurl: /media/plank-spiderman-on-forearms.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/plank-spiderman-on-forearms.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 50
+    createdat: 2019-05-14T18:33:10.708634+04:30
+    updatedat: 2019-05-14T18:33:10.708635+04:30
+    deletedat: null
+  name: push up diamond knee height
+  thumbnailurl: /media/push-up-diamond-knee-height.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/push-up-diamond-knee-height.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 53
+    createdat: 2019-05-14T18:33:10.831728+04:30
+    updatedat: 2019-05-14T18:33:10.831728+04:30
+    deletedat: null
+  name: push-ups handstand against wall
+  thumbnailurl: /media/push-ups-handstand-against-wall.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/push-ups-handstand-against-wall.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 3
+    createdat: 2019-05-14T18:33:10.24187+04:30
+    updatedat: 2019-05-14T18:33:10.241871+04:30
+    deletedat: null
+  name: back touch forearms knee on floor
+  thumbnailurl: /media/back-touch-forearms-knee-on-floor.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/back-touch-forearms-knee-on-floor.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 22
+    createdat: 2019-05-14T18:33:10.381619+04:30
+    updatedat: 2019-05-14T18:33:10.38162+04:30
+    deletedat: null
+  name: hyperextensions hands at side
+  thumbnailurl: /media/hyperextensions-hands-at-side.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/hyperextensions-hands-at-side.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 48
+    createdat: 2019-05-14T18:33:10.702776+04:30
+    updatedat: 2019-05-14T18:33:10.702777+04:30
+    deletedat: null
+  name: pointers knee on floor
+  thumbnailurl: /media/pointers-knee-on-floor.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/pointers-knee-on-floor.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 51
+    createdat: 2019-05-14T18:33:10.711908+04:30
+    updatedat: 2019-05-14T18:33:10.711909+04:30
+    deletedat: null
+  name: push up hands sternum height
+  thumbnailurl: /media/push-up-hands-sternum-height.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/push-up-hands-sternum-height.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 76
+    createdat: 2019-05-14T18:33:11.307955+04:30
+    updatedat: 2019-05-14T18:33:11.307956+04:30
+    deletedat: null
+  name: step ups power
+  thumbnailurl: /media/step-ups-power.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/step-ups-power.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 83
+    createdat: 2019-05-14T18:33:11.329543+04:30
+    updatedat: 2019-05-14T18:33:11.329544+04:30
+    deletedat: null
+  name: arm rotation backwards
+  thumbnailurl: /media/arm-rotation-backwards.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/arm-rotation-backwards.mp4
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 24
+    createdat: 2019-05-14T18:33:10.394551+04:30
+    updatedat: 2019-05-14T18:33:10.394552+04:30
+    deletedat: null
+  name: iron crosses knees bent
+  thumbnailurl: /media/iron-crosses-knees-bent.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/iron-crosses-knees-bent.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []
+- model:
+    id: 77
+    createdat: 2019-05-14T18:33:11.311198+04:30
+    updatedat: 2019-05-14T18:33:11.311198+04:30
+    deletedat: null
+  name: step ups
+  thumbnailurl: /media/step-ups.png
+  description: ""
+  instruction: ""
+  tips: ""
+  videourl: /media/step-ups.m4v
+  class:
+    model:
+      id: 0
+      createdat: 0001-01-01T00:00:00Z
+      updatedat: 0001-01-01T00:00:00Z
+      deletedat: null
+    name: ""
+    coverurl: ""
+    description: ""
+    keywords: []
+    musclegroups: []
+    movements: []
+  classid: 0
+  articles: []
+  musclegroups: []
+  keywords: []

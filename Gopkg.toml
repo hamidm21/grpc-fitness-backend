@@ -1,0 +1,120 @@
+# Gopkg.toml example
+#
+# Refer to https://golang.github.io/dep/docs/Gopkg.toml.html
+# for detailed Gopkg.toml documentation.
+#
+required = ["github.com/qor/responder", "github.com/qor/roles", "github.com/qor/validations"]
+# ignored = ["github.com/user/project/pkgX", "bitbucket.org/user/project/pkgA/pkgY"]
+#
+# [[constraint]]
+#   name = "github.com/user/project"
+#   version = "1.0.0"
+#
+# [[constraint]]
+#   name = "github.com/user/project2"
+#   branch = "dev"
+#   source = "github.com/myfork/project2"
+#
+# [[override]]
+#   name = "github.com/x/y"
+#   version = "2.4.0"
+#
+# [prune]
+#   non-go = false
+#   go-tests = true
+#   unused-packages = true
+
+
+[[constraint]]
+  name = "github.com/dc0d/persical"
+  version = "1.0.0"
+
+[[constraint]]
+  name = "github.com/dgrijalva/jwt-go"
+  version = "3.2.0"
+
+
+[[constraint]]
+  name = "github.com/go-redis/redis"
+  version = "6.14.0"
+
+[[constraint]]
+  name = "github.com/jinzhu/gorm"
+  version = "1.9.1"
+
+
+[[constraint]]
+  name = "github.com/kataras/iris"
+  version = "10.7.0"
+
+[[constraint]]
+  name = "github.com/sirupsen/logrus"
+  version = "1.0.6"
+
+[[constraint]]
+  name = "github.com/spf13/viper"
+  version = "1.1.0"
+
+[[constraint]]
+  name = "github.com/qor/qor"
+  branch = "master"
+
+[[constraint]]
+  name = "github.com/qor/admin"
+  branch = "master"
+
+[[constraint]]
+  name = "github.com/qor/roles"
+  branch = "master"
+
+[[constraint]]
+  name = "github.com/qor/responder"
+  branch = "master"
+
+[[constraint]]
+  name = "github.com/qor/validations"
+  branch = "master"
+
+[[constraint]]
+  name = "gitlab.com/mefit/mefit-api"
+  source = "https://hhio618:-NLupzbsm6dzFBwQhjz4@gitlab.com/mefit/mefit-api.git"
+  version = "0.1.4"
+
+[[constraint]]
+  branch = "master"
+  name = "golang.org/x/net"
+
+[[constraint]]
+  name = "google.golang.org/grpc"
+  version = "1.14.0"
+
+
+
+[prune]
+  go-tests = true
+  unused-packages = true
+
+[[prune.project]]
+    name = "github.com/qor/admin"
+    non-go = false
+    unused-packages = false
+
+[[prune.project]]
+    name = "github.com/qor/qor"
+    non-go = false
+    unused-packages = false
+
+[[prune.project]]
+    name = "github.com/qor/roles"
+    non-go = false
+    unused-packages = false
+
+[[prune.project]]
+    name = "github.com/qor/responder"
+    non-go = false
+    unused-packages = false
+
+
+[[constraint]]
+  name = "go.mongodb.org/mongo-driver"
+  version = "~1.0.0"

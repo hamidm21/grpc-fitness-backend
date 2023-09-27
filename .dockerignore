@@ -1,0 +1,10 @@
+build/*
+pgdata
+.DS_Store
+docker-compose.yml
+docker-compose.yaml
+.env
+.env.sh
+.env.yaml
+*.db
+tmp/*
